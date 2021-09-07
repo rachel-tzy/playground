@@ -1,7 +1,5 @@
 # Playground
-Ziye is taking AC207£¬
-
-Ziye is G1 student.
+Ziye is taking AC207
 
 A place to play with `git`.
 
