@@ -1,5 +1,5 @@
 # Playground
-AC209, STAT139, CS182
+Ziye is taking AC207
 
 A place to play with `git`.
 
